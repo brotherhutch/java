@@ -1,7 +1,7 @@
 /**
  * 
  */
-package exercises;
+package assign1;
 
 /**
  * 

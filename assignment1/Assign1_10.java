@@ -1,4 +1,4 @@
-package exercises;
+package assign1;
 
 /*
  * Assume that a runner runs 14 kilometers in 45 minutes and 10 seconds.

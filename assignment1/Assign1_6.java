@@ -1,4 +1,4 @@
-package exercises;
+package assign1;
 
 public class Assign1_6 {
 	public Assign1_6()

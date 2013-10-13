@@ -1,4 +1,4 @@
-package exercises;
+package assign1;
 
 import java.text.NumberFormat;
 
