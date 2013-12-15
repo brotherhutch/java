@@ -88,5 +88,7 @@ public class Lottery {
 		{
 			System.out.println("Sorry, you are a loser.");
 		}
+		
+		scanner.close();
 	}
 }
