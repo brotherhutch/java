@@ -12,7 +12,9 @@ public class Driver {
 		// KgToLb e4 = new KgToLb();
 		// Divisible56 e5 = new Divisible56();
 		// CountDownTimer e6 = new CountDownTimer();
-		StandardDeviation e7 =  new StandardDeviation();
+		// StandardDeviation e7 =  new StandardDeviation();
+		PentagonalNumber e8 = new PentagonalNumber();
+		
 		
 	}
 
