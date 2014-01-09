@@ -13,7 +13,10 @@ public class Driver {
 		// Divisible56 e5 = new Divisible56();
 		// CountDownTimer e6 = new CountDownTimer();
 		// StandardDeviation e7 =  new StandardDeviation();
-		PentagonalNumber e8 = new PentagonalNumber();
+		// PentagonalNumber e8 = new PentagonalNumber();
+		// SumDigits e9 = new SumDigits();
+		// System.out.println(PalindromeInteger.reverse(1001));
+		PalindromeInteger e10 = new PalindromeInteger();
 		
 		
 	}
