@@ -23,7 +23,8 @@ public class Driver {
 		// System.out.println(ValidateCC.prefixMatched(123, 12));
 		// System.out.println(ValidateCC.getPrefix(123456, 3));
 		// System.out.println(ValidateCC.sumOfDoubleEvenPlace(123641));
-		ValidateCC e11 = new ValidateCC();
+		// ValidateCC e11 = new ValidateCC();
+		RelativeGrades e12 = new RelativeGrades();
 		
 	}
 
