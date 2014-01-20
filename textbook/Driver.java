@@ -24,7 +24,8 @@ public class Driver {
 		// System.out.println(ValidateCC.getPrefix(123456, 3));
 		// System.out.println(ValidateCC.sumOfDoubleEvenPlace(123641));
 		// ValidateCC e11 = new ValidateCC();
-		RelativeGrades e12 = new RelativeGrades();
+		// RelativeGrades e12 = new RelativeGrades();
+		Occurrences e13 = new Occurrences();
 		
 	}
 
