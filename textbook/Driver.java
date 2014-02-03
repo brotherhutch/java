@@ -25,7 +25,8 @@ public class Driver {
 		// System.out.println(ValidateCC.sumOfDoubleEvenPlace(123641));
 		// ValidateCC e11 = new ValidateCC();
 		// RelativeGrades e12 = new RelativeGrades();
-		Occurrences e13 = new Occurrences();
+		// Occurrences e13 = new Occurrences();
+		WeeklyHourMatrix e14 = new WeeklyHourMatrix();
 		
 	}
 
