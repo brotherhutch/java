@@ -1,5 +1,7 @@
 package textbook;
 
+import java.util.Arrays;
+
 public class Driver {
 
 	/**
@@ -27,8 +29,21 @@ public class Driver {
 		// RelativeGrades e12 = new RelativeGrades();
 		// Occurrences e13 = new Occurrences();
 		// WeeklyHourMatrix e14 = new WeeklyHourMatrix();
-		TicTacToe e15 = new TicTacToe();
+		// TicTacToe e15 = new TicTacToe();
+//		Account testAccount = new Account(1122,20000);
+//		testAccount.setAnnualInterestRate(4.5);
+//		testAccount.withdraw(2500);
+//		testAccount.deposit(3000);
+//		System.out.printf("The test account balance is: %.2f%n", testAccount.getBalance());
+//		System.out.printf("The test account monthly interest is: %.2f%n", testAccount.getMonthlyInterest());
+//		System.out.printf("The test account creation date is: %s%n", testAccount.getDateCreated().toString());
+		StartATM atm = new StartATM();
+		
+		
+		
+		
+		
 		
 	}
-
+	
 }
